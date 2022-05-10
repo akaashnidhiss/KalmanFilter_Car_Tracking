@@ -1,6 +1,7 @@
 # KalmanFilter_Car_Tracking
 
 (The below is just a summary of our report on our project work done. For more information about our project, please refer to the attatched Project Report in the repository)
+(refer to PPT in repository for visual explanation)
 
 ### INTRODUCTION
 Kalman filtering is an algorithm that allows us to estimate the states of a system given the observations or measurements. It is a useful tool for a variety of different applications including object tracking and autonomous navigation systems, economics prediction, etc.
