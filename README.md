@@ -3,6 +3,20 @@
 (The below is just a summary of our report on our project work done. For more information about our project, please refer to the attatched Project Report in the repository)
 (refer to PPT in repository for visual explanation)
 
+
+### OUTPUT SCREENSHOTS: 
+The following are some output screenshots displayed by our project code, illustrating the Estimated Position, Measured Position and Predicted Position of the car being tracked.
+
+![image](https://user-images.githubusercontent.com/60477228/167597188-0443bdbe-7bb7-44cf-8156-c1b37bb88b1b.png)
+![image](https://user-images.githubusercontent.com/60477228/167597259-6aa1d37b-7765-4196-85bc-e1b3d8a6d68a.png)
+![image](https://user-images.githubusercontent.com/60477228/167597315-efa576b2-db8f-407a-b4d5-351cf66a4fa7.png)
+![image](https://user-images.githubusercontent.com/60477228/167597348-abf91011-8b9e-45d5-b8d7-6549f0f7ac37.png)
+![image](https://user-images.githubusercontent.com/60477228/167597407-e8507c49-0fd3-4b1c-8b20-afb4a80fb803.png)
+![image](https://user-images.githubusercontent.com/60477228/167597445-2294d71d-5731-48d1-aa5e-dda698812918.png)
+
+A video featuring a sample output of our project code can be found here in the following google drive link:
+[carOutput.avi](https://drive.google.com/file/d/1W9r0hor1ZZUcZeaO5FhJ9IyRSe92XLgf/view?usp=sharing)
+
 ### INTRODUCTION
 Kalman filtering is an algorithm that allows us to estimate the states of a system given the observations or measurements. It is a useful tool for a variety of different applications including object tracking and autonomous navigation systems, economics prediction, etc.
 Even though it is a relatively simple algorithm, it's still not easy for some people to understand and implement it in a computer program such as Python. Therefore, the aim of this tutorial is to help some people to comprehend easily the implementation of Kalman filter in Python.
@@ -24,18 +38,6 @@ In the end, it is concluded that we have made effort on the following points:
 - We designed the user interface and security issues related to the system. 
 - Finally, the system is implemented and tested according to test cases. 
 
-### OUTPUT SCREENSHOTS: 
-The following are some output screenshots displayed by our project code, illustrating the Estimated Position, Measured Position and Predicted Position of the car being tracked.
-
-![image](https://user-images.githubusercontent.com/60477228/167597188-0443bdbe-7bb7-44cf-8156-c1b37bb88b1b.png)
-![image](https://user-images.githubusercontent.com/60477228/167597259-6aa1d37b-7765-4196-85bc-e1b3d8a6d68a.png)
-![image](https://user-images.githubusercontent.com/60477228/167597315-efa576b2-db8f-407a-b4d5-351cf66a4fa7.png)
-![image](https://user-images.githubusercontent.com/60477228/167597348-abf91011-8b9e-45d5-b8d7-6549f0f7ac37.png)
-![image](https://user-images.githubusercontent.com/60477228/167597407-e8507c49-0fd3-4b1c-8b20-afb4a80fb803.png)
-![image](https://user-images.githubusercontent.com/60477228/167597445-2294d71d-5731-48d1-aa5e-dda698812918.png)
-
-A video featuring a sample output of our project code can be found here in the following google drive link:
-[carOutput.avi](https://drive.google.com/file/d/1W9r0hor1ZZUcZeaO5FhJ9IyRSe92XLgf/view?usp=sharing)
 
 ### CONCLUSION: 
 In conclusion, Kalman filtering is an algorithm that allows us to estimate the states of a system given the observations or measurements. It is a useful tool for a variety of different applications including object tracking and autonomous navigation systems, economics prediction, etc.
